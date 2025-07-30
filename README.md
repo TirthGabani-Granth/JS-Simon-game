@@ -1,2 +1,2 @@
 # JS-Simon-game
-Here I star building small games like Simon games.
+Here I start building small games like Simon games.
